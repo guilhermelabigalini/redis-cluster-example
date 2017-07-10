@@ -1,0 +1,1 @@
+redis-server node2/redis.conf

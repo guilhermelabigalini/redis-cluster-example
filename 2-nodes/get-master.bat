@@ -1,0 +1,1 @@
+redis-cli -p 16380 sentinel get-master-addr-by-name redis-cluster
