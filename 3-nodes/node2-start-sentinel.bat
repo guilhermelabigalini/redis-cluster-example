@@ -1,0 +1,1 @@
+redis-server node2/sentinel.conf --sentinel
